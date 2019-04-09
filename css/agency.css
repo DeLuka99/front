@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Agency v5.0.7 (https://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
+ * Start Bootstrap - RaceLearning v5.0.7 ()
+ * Copyright 2013-2019 Cangaceiros
+ * Licensed under MIT (https://github.com/BlackrockDigital/race-learning/blob/master/LICENSE)
  */
 
 body {
@@ -167,11 +167,12 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  opacity: 0.9;
 }
 
 header.masthead .intro-text {

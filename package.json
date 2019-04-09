@@ -1,33 +1,21 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "RaceLearning",
+    "name": "race-learning",
     "version": "5.0.7",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Let's play the game",
     "keywords": [
         "css",
         "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "html" 
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Cangaceiros",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
-    },
+        "Lucas and others"
+    ], 
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
         "bootstrap": "4.3.1",
