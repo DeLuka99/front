@@ -10,9 +10,7 @@
         "css",
         "sass",
         "html",
-        "responsive",
-        "theme",
-        "template",
+        "responsive", 
         "admin",
         "app"
     ],  
